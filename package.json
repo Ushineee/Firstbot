@@ -1,0 +1,26 @@
+{
+  "name": "boorubot",
+  "version": "3.2.1",
+  "description": "A Discord bot to search boorus",
+  "main": "modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtlasTheBot/Booru-Discord.git"
+  },
+  "keywords": [],
+  "author": "AtlasTheBot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtlasTheBot/Booru-Discord/issues"
+  },
+  "homepage": "https://github.com/AtlasTheBot/Booru-Discord#readme",
+  "dependencies": {
+    "booru": "^2.0.3",
+    "discord.js": "^11.5.1",
+    "pmx": "^1.6.7",
+    "recursive-readdir-sync": "^1.0.6"
+  }
+}

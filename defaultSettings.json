@@ -1,0 +1,10 @@
+{
+  "tags": [],
+  "sites": [],
+  "options": {
+    "nsfwServer": false,
+    "minScore": null,
+    "topicEnable": false,
+    "deprecationWarning": false
+  }
+}
